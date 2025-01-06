@@ -58,8 +58,7 @@ iOS 版本肥崽暂时没有账户系统，故我们将你的数据存储在你�
 >
 > 相关协议：https://privacy.microsoft.com/zh-cn/privacystatement
 >
-> 异常上报、运营统计服务 SDK：
-
+#### 异常上报、运营统计服务 SDK：
 > SDK 名称：Bugly SDK
 >
 > 公司名称：腾讯科技（深圳）有限公司
